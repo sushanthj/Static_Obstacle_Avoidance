@@ -1,0 +1,5 @@
+python adiway.py(waypoint-output0)
+./aditry.cpp(output0-output1)
+python psotrap(output1-output2)
+./aditry1.cpp(output2-output3)
+python finalwavepoint.py(output3-final)
